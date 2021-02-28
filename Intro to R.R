@@ -1,6 +1,11 @@
 # R script to accompany Intro to R
+#
+# Written by Cameron Rohatgi, Sophomore in college
+#
 # Copy for car320 2021
-######################################################
+#
+# Customized by car320 2021
+####################################################################
 
 # You will see that you can put non-executable "comment" lines
 # in your script by putting "#" at the beginning of the lines.
